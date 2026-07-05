@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-grid">
         <div className="footer-brand">
-          <h3 style={{ fontFamily: 'var(--font-serif)', color: 'var(--off-white)', margintop: 0 }}>Urban Wines</h3>
+          <h3 style={{ fontFamily: 'var(--font-serif)', color: 'var(--off-white)', margintop: 0 }}>Modern Wines</h3>
           <p style={{ marginTop: 0 }}>
             Durbanville <span style={{ color: 'var(--gold)' }}>·</span> Est. 2015
           </p>
@@ -65,7 +65,7 @@ export default function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <span>© {year} Urban Wines, Durbanville. All rights reserved.</span>
+        <span>© {year} Modern Wines, Durbanville. All rights reserved.</span>
         <span>
           <a href="#hero" onClick={e => { e.preventDefault(); scrollTo('hero') }}>Privacy</a>
           {' · '}
