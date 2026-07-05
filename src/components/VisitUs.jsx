@@ -7,7 +7,7 @@ export default function VisitUs() {
           <div className="visit-info">
             <p className="section-label reveal">Find Us</p>
             <h2 className="reveal reveal-delay-1">
-              Visit Modern Wines<br />
+              Visit Neighbourhood Wines<br />
               <em style={{ fontStyle: 'italic', color: 'var(--gold)' }}>in Durbanville</em>
             </h2>
             <div className="divider reveal reveal-delay-1" />
@@ -60,7 +60,7 @@ export default function VisitUs() {
             {/* Map */}
             <div className="map-container reveal reveal-delay-1">
               <iframe
-                title="Modern Wines Location"
+                title="Neighbourhood Wines Location"
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26371.65!2d18.6436!3d-33.8293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc56c8e05cf2ed%3A0x8e6d5e5a4a6f8eb5!2sDurbanville%2C%20Cape%20Town!5e0!3m2!1sen!2sza!4v1700000000000!5m2!1sen!2sza&style=feature:all|element:geometry|color:0x1a1a1a&style=feature:water|element:geometry|color:0x0d0d0d&style=feature:road|element:geometry|color:0x2a2a2a"
                 width="100%"
                 height="100%"

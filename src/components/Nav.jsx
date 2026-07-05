@@ -20,7 +20,7 @@ export default function Nav() {
   return (
     <nav className={`nav${scrolled ? ' scrolled' : ''}`}>
       <a className="nav-logo" href="#hero">
-        Modern Wines
+        Neighbourhood Wines
         <span>Durbanville · Est. 2015</span>
       </a>
 

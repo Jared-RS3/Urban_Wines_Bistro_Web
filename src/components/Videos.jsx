@@ -25,7 +25,7 @@ const VIDEO_SLOTS = [
   {
     id: 4,
     tag: 'Lifestyle',
-    title: 'An Evening at Modern Wines',
+    title: 'An Evening at Neighbourhood Wines',
     desc: 'Candle-lit tastings, curated pours, and conversation that flows as freely as the wine.',
     src: null, // Replace with: '/videos/evening.mp4'
   },

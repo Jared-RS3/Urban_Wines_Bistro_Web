@@ -21,7 +21,7 @@ export default function About() {
             <h2 className="reveal reveal-delay-1">Crafted with<br /><em style={{ fontStyle: 'italic', color: 'var(--gold)' }}>Character</em></h2>
             <div className="divider reveal reveal-delay-1" />
             <p className="reveal reveal-delay-2">
-              Modern Wines brings together curated selections from Durbanville's finest vineyards, offering bold reds, crisp whites, and exclusive reserves for true wine lovers.
+              Neighbourhood Wines brings together curated selections from Durbanville's finest vineyards, offering bold reds, crisp whites, and exclusive reserves for true wine lovers.
             </p>
             <p className="reveal reveal-delay-2" style={{ marginTop: '1rem' }}>
               Nestled in the heart of the Cape Winelands, we source only from producers who share our obsession with quality — from the cool-climate slopes that produce our signature reserve Cabernets, to the sun-drenched rows behind our cellar doors.

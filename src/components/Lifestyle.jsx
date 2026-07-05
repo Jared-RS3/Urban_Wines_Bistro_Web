@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-/* ── Rich Instagram post data – Modern Wines Bistro ── */
+/* ── Rich Instagram post data – Neighbourhood Wines Bistro ── */
 const POSTS = [
   {
     id: 1,
@@ -57,7 +57,7 @@ const POSTS = [
     emoji: '🕯️',
     bg: 'radial-gradient(ellipse at 50% 70%, #1a0c04 0%, #0e090a 70%, #0d0d0d 100%)',
     accent: '#C6A75E',
-    caption: 'Friday evenings at Modern Wines. Candlelight, a glass of Shiraz, and nowhere else to be.',
+    caption: 'Friday evenings at Neighbourhood Wines. Candlelight, a glass of Shiraz, and nowhere else to be.',
     tag: '#UrbanVibes',
     likes: '1.5k',
     visual: 'candle',
@@ -257,7 +257,7 @@ export default function Lifestyle() {
           </h2>
           <div className="divider reveal reveal-delay-2" style={{ margin: '1.5rem auto' }} />
           <p className="reveal reveal-delay-2" style={{ color: 'var(--text-muted)', maxWidth: 500, margin: '0 auto' }}>
-            Wine, coffee, cocktails & curated small plates — Modern Wines Bistro is Durbanville's
+            Wine, coffee, cocktails & curated small plates — Neighbourhood Wines Bistro is Durbanville's
             most intimate gathering place.
           </p>
           <div className="ls-tag-row reveal reveal-delay-3">
